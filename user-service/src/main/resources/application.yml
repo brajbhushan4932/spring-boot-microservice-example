@@ -1,0 +1,10 @@
+server:
+  port: 9050
+
+spring:
+  application:
+    name: user-service
+
+eureka:
+  instance:
+    hostname: localhost
